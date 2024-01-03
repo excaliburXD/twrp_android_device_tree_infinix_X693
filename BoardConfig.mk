@@ -160,7 +160,7 @@ TW_INCLUDE_REPACKTOOLS := true
 TW_FRAMERATE := 60
 
 # Maintainer/Version
-TW_DEVICE_VERSION := For X695 | Gilanggegea™
+TW_DEVICE_VERSION := For X693 | Gilanggegea™
 
 # logcd
 TWRP_INCLUDE_LOGCAT := true
