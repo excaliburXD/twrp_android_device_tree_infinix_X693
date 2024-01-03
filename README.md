@@ -1,4 +1,4 @@
-# Android device tree for Infinix X693 (X693)
+# Android device tree for Infinix Note 10 (X693)
 
 ```
 #
