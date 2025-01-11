@@ -6,6 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X693.mk
-
-COMMON_LUNCH_CHOICES := twrp_X693-eng
+    $(LOCAL_DIR)/twrp_rocko.mk
