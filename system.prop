@@ -1,0 +1,33 @@
+# FBE
+ro.crypto.volume.filenames_mode=aes-256-cts
+fbe.metadata.wrappedkey=true
+
+# HARDWARE
+ro.vendor.mediatek.platform=MT6768
+ro.board.platform=mt6768
+
+# USB DEBUG
+persist.sys.usb.config=mtp,adb
+ro.secure=0
+ro.debuggable=1
+
+# BEANPOD KEYMASTER
+ro.hardware.kmsetkey=beanpod
+ro.hardware.gatekeeper=beanpod
+
+# TEE
+ro.vendor.mtk_tee_gp_support=1
+ro.vendor.mtk_microtrust_tee_support=1
+
+# FUSE
+persist.sys.fuse.passthrough.enable=true
+
+# From device configure
+ro.postinstall.fstab.prefix=/system
+ro.vendor.mtk_f2fs_enable=1
+ro.boot.dynamic_partitions=true
+ro.build.ab_update=true
+ro.vendor.mtk_emmc_support=1
+ro.virtual_ab.enabled=true
+ro.apex.updatable=true
+init.userspace_reboot.is_supported=true
