@@ -1,4 +1,4 @@
-# Costum Recovey device tree for Infinix Note 10 (rocko)
+# Costum Recovery device tree for Infinix Note 10 (rocko)
 
 ## Status
 
@@ -10,7 +10,7 @@ Current state of features (from [here](https://twrp.me/faq/OfficialMaintainer.ht
 - [X] Working Touch, screen
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
-- [X] reboot to system
+- [X] reboot to system (Stockrom not tested)
 - [X] ADB
 
 ### Medium checks
