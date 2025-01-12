@@ -44,7 +44,7 @@ Current state of features (from [here](https://twrp.me/faq/OfficialMaintainer.ht
 
 ```bash
 source build/envsetup.sh
-lunch twrp_radiant-eng
+lunch twrp_rocko-eng
 mka bootimage
 ```
 ## Device Information
