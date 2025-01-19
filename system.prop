@@ -1,0 +1,25 @@
+# FBE
+ro.crypto.volume.filenames_mode=aes-256-cts
+fbe.metadata.wrappedkey=true
+
+# HARDWARE
+ro.vendor.mediatek.platform=MT6768
+ro.board.platform=mt6768
+
+# USB MTP
+ro.sys.usb.storage.type=mtp
+
+# BEANPOD KEYMASTER
+ro.hardware.kmsetkey=beanpod
+ro.hardware.gatekeeper=beanpod
+
+# TEE
+ro.vendor.mtk_tee_gp_support=1
+ro.vendor.mtk_microtrust_tee_support=1
+
+# FSTAB
+ro.postinstall.fstab.prefix=/system
+
+# other
+keymaster_ver=4.0
+ro.boot.dynamic_partitions=true
